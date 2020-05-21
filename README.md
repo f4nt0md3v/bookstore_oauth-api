@@ -3,5 +3,5 @@
 Technologies used:
 - `cassandra` as backend
 - `golang` as middleware language
-- `gorilla mux` as http router
+- `gin gonic` as framework
 - `docker` & `docker-compose` for containerization
